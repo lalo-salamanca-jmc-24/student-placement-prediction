@@ -227,7 +227,6 @@ After comprehensive EDA, the following factors were identified as **key predicto
 
 ## References
 
-- [Campus Recruitment Dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)
 - [Scikit-learn Classification Guide](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Seaborn Visualization Tutorial](https://seaborn.pydata.org/tutorial.html)
